@@ -1,3 +1,6 @@
 [submodule "Keeper-App-React"]
 	path = Keeper-App-React
 	url = https://github.com/ayushyadavone/Keeper-App-React
+[submodule "ToDo-App-React"]
+	path = ToDo-App-React
+	url = https://github.com/ayushyadavone/ToDo-App-React
